@@ -16,7 +16,7 @@
 
 | Tool                                          | Description                                                                                                                                      | status                                    |
 | :----------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
-| [chunkfiy](https://github.com/atomicai/itool/bin/chunkify.sh) | Compress the directory onto zip arxive  performing splitting on the fly | ✔️      |
+| [chunkfiy](https://raw.githubusercontent.com/atomicai/itool/master/bin/chunkify.sh) | Compress the directory onto zip arxive  performing splitting on the fly | ✔️      |
 
 ---
 
